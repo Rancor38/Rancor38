@@ -1,5 +1,6 @@
 # Hello there 👋
-![Z-Logo2](https://user-images.githubusercontent.com/105610124/188522623-24e123fd-6e54-4d78-a0e4-2e3fd5eb1d18.png)
+<img src="https://user-images.githubusercontent.com/105610124/188522623-24e123fd-6e54-4d78-a0e4-2e3fd5eb1d18.png" alt="z-logo" width="200"/>
+
 
 ## A little bit about me
 
