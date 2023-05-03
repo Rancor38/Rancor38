@@ -1,5 +1,5 @@
 <h1 align="center">
-![image](https://user-images.githubusercontent.com/105610124/235956403-688065c9-e753-4f7a-ad35-c150bf5dd655.png)
+ <img src="[https://user-images.githubusercontent.com/105610124/188522623-24e123fd-6e54-4d78-a0e4-2e3fd5eb1d18.png](https://user-images.githubusercontent.com/105610124/235956403-688065c9-e753-4f7a-ad35-c150bf5dd655.png)" alt="z-logo" width="300" />
 </h1.
 <br>
   
