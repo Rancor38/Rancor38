@@ -7,7 +7,7 @@
 
 My name is Zakariah, and I am a **software engineer** and I am pursuing a career in **web and game development**.
 
-🌱 I really love working with motion elements, and making responsive applications. I'm super enthusiastic when I find a new technology for developing reactive designs. In 2022 learned **React** and **Django**, and **Angular** is the next framework I'm looking at developing in. I also really like playing around with CSS and motion libraries to make apps more slick and responsive.
+🌱 I really love working with motion elements, and making responsive applications. I'm super enthusiastic when I find a new technology for developing reactive designs. In 2022 learned **React** and **Django**, and **Electron** is the next framework I'm looking at developing in. I also really like playing around with CSS and motion libraries to make apps more slick and responsive.
 
 👯 I'm always looking to collaborate on new projects in order to expand my skills and get different perspectives on development, as I know that there's a near infinite font of knowledge I've just dipped my toe into.
 
