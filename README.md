@@ -7,7 +7,7 @@
 
 My name is Zakariah, and I am a **software engineer**.
 
-🌱 I'm super enthusiastic when I find a new technology for developing reactive designs. In 2022 learned **React** and **Django**, and in 2023 became an **AWS Certified Cloud Practitioner**. I also really like playing around with CSS and motion libraries in my spare time.
+🌱 I'm super enthusiastic when I find a new technology for developing reactive designs. In 2022 learned **React** and **Django**, and in 2023 became an **AWS Certified Cloud Practitioner** and **AWS Certified Solutions Architect**. I also really like playing around with CSS and motion libraries in my spare time.
 
 👯 I'm always looking to collaborate on new projects in order to expand my skills and get different perspectives on development, as I know that there's a near infinite font of knowledge in this feild.
 
